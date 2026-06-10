@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 My name is Germaine
 
-<!--
-**GermaineH/GermaineH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI/ML engineer and software engineer focused on computer vision, machine learning workflows, and applied AI systems.
 
-Here are some ideas to get you started:
+🌍 I'm based in Washington, DC
+🎓 MS in Artificial Intelligence
+🧠 Interested in AI/ML Engineering, Computer Vision, and MLOps
+💻 Working with Python, PyTorch, OpenCV, SQL, Docker, and Git
+✉️ You can contact me at [germainehounakey4@gmail.com](mailto:germainehounakey4@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Python • PyTorch • OpenCV • SQL • JavaScript • Angular • ASP.NET • Docker • Git • Linux
+
+## Current Focus
+
+* Computer Vision
+* Deep Learning
+* AI/ML Engineering
+* MLOps
+* Applied Machine Learning
